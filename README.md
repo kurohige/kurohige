@@ -11,6 +11,7 @@ I'm equally comfortable designing CQRS/Event Sourcing backends as I am building 
 **Currently building:**
 - A multi-tenant portfolio platform on Payload CMS
 - A desktop game companion app with Rust + Tauri
+- [**ABPlayer**](https://github.com/kurohige/ABPlayer) — A desktop audiobook player built with Tauri v2 + Svelte 5
 
 ---
 
@@ -100,4 +101,7 @@ AI-Augmented Dev       ████████████████░░░
   <sub>I'm open to consulting engagements, collaborations on distributed systems, and interesting engineering challenges.</sub><br/><br/>
   <a href="https://www.linkedin.com/in/jhidalgopalacios/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
   <a href="https://jhidalgo.dev/cv"><img src="https://img.shields.io/badge/View_My_CV-BD93F9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View CV"/></a>
+  <br/><br/>
+  <sub>If you find my work useful, consider supporting me:</sub><br/><br/>
+  <a href="https://buymeacoffee.com/jhidalgo_dev"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
 </p>
