@@ -1,19 +1,21 @@
 ### Jose Hidalgo
 
-**Senior Full-Stack Engineer** — event-driven backends in Scala, Kotlin, and Java; TypeScript on the front.
-Based in Finland.
+**Senior Full-Stack Engineer** — distributed systems & software architecture in Java, Scala, and Angular.
+Nashville, TN · US-remote.
 
-I design distributed systems where the domain model comes first: microservices with real bounded
-contexts, CQRS and event sourcing where they earn their keep, and messaging (Akka/Pekko, Pulsar, Dapr)
-rather than shared databases. Most of my production work has been in **IoT and device-fleet platforms**
-and **logistics** — domains where ingest volume, eventual consistency, and operational visibility are
-the actual engineering problems, not incidental ones.
+Six-plus years building production distributed systems and enterprise web applications where the domain
+model comes first: microservices with real bounded contexts, CQRS and event sourcing where they earn
+their keep, and messaging (Akka Persistence & Streams, Dapr) rather than shared databases. Most of my
+production work has been in **energy & utilities, IoT / device platforms, and logistics** — domains
+where ingest volume, eventual consistency, and operational visibility are the actual engineering
+problems, not incidental ones.
 
-I also ship frontends (TypeScript with Angular and React) and desktop apps, and after years of
+I also ship frontends (Angular and React on TypeScript) and desktop apps, and after years of
 client-facing consultancy I'm comfortable being the person who explains the architecture to
 non-engineers.
 
-**Currently:** open to **Senior Backend / Full-Stack** roles — Finland or US-remote.
+**Currently:** based in Nashville, TN and open to **Senior Backend / Full-Stack** roles, US-remote.
+US citizen — no sponsorship required.
 
 <p>
   <a href="https://jhidalgo.dev/cv"><img src="https://img.shields.io/badge/CV-jhidalgo.dev-BD93F9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CV"/></a>
@@ -51,11 +53,11 @@ The implementation is public: [**blcms-ceqs**](https://github.com/kurohige/blcms
 
 ### Stack
 
-**Backend** — Scala, Kotlin, Java, Akka/Pekko, http4k, http4s, Cats Effect, Play, NestJS
-**Architecture** — DDD, CQRS, event sourcing, microservices, gRPC, GraphQL, REST
-**Data & messaging** — PostgreSQL, Cassandra, ClickHouse, Elasticsearch, Redis, Pulsar, Kafka/Event Hub
-**Frontend** — TypeScript, Angular, React, React Native, Svelte, Tailwind
-**Platform** — Docker, Kubernetes, Dapr, Azure, AWS, GitHub Actions
+**Backend** — Java, Scala, Spring Boot, Akka (Streams, Persistence), Play, Lagom, http4s, Node.js
+**Architecture** — DDD, CQRS, event sourcing, microservices, gRPC, GraphQL, Dapr, REST
+**Frontend** — Angular, React, React Native, TypeScript, Tailwind
+**Data** — PostgreSQL, MongoDB Atlas, Cassandra, Elasticsearch, Redis
+**Cloud & delivery** — Google Cloud Platform, Azure, Docker, CI/CD
 
 ---
 
