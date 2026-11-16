@@ -3,7 +3,7 @@
 **Senior Full-Stack Engineer** — distributed systems & software architecture in Java, Scala, and Angular.
 Nashville, TN · US-remote.
 
-Six-plus years building production distributed systems and enterprise web applications where the domain
+Five-plus years building production distributed systems and enterprise web applications where the domain
 model comes first: microservices with real bounded contexts, CQRS and event sourcing where they earn
 their keep, and messaging (Akka Persistence & Streams, Dapr) rather than shared databases. Most of my
 production work has been in **energy & utilities, IoT / device platforms, and logistics** — domains
@@ -14,8 +14,8 @@ I also ship frontends (Angular and React on TypeScript) and desktop apps, and af
 client-facing consultancy I'm comfortable being the person who explains the architecture to
 non-engineers.
 
-**Currently:** based in Nashville, TN and open to **Senior Backend / Full-Stack** roles, US-remote.
-US citizen — no sponsorship required.
+**Currently:** Open to ** Backend / Full-Stack** roles, US-remote.
+US citizen, Finnish permanent residence — no sponsorship required.
 
 <p>
   <a href="https://jhidalgo.dev/cv"><img src="https://img.shields.io/badge/CV-jhidalgo.dev-BD93F9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CV"/></a>
