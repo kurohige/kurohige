@@ -14,7 +14,7 @@ I also ship frontends (Angular and React on TypeScript) and desktop apps, and af
 client-facing consultancy I'm comfortable being the person who explains the architecture to
 non-engineers.
 
-**Currently:** Open to ** Backend / Full-Stack** roles, US-remote.
+**Currently:** Open to **Backend / Full-Stack** roles, US-remote.
 US citizen, Finnish permanent residence — no sponsorship required.
 
 <p>
